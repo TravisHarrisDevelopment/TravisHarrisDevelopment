@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TravisHarrisDevelopment
 - 👀 I’m interested in guitars, code, music & movies
-- 🌱 I’m currently learning OpenShift
+- 🌱 I’m currently learning Go and Python
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...travis dot harris dot development at gmail dot com
 
